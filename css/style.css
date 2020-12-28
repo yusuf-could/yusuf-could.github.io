@@ -1,0 +1,31 @@
+.slider {
+	margin-top: -65px;
+}
+.slider h3, 
+.slider h5,
+.store h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.navbar-fixed{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+	font-size: 14px;
+}
+
+.parallax-container{
+	height: 50%;
+}
+
+.parallax img{
+	filter : grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.store img{
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.9));
+}
+
+section, footer{
+	padding: 20px 0;
+}
